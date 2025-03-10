@@ -12,7 +12,7 @@
   color: #2e2f42;
 }
 
-input[type='number'] {
+.input-snackbar {
   padding-left: 16px;
   padding-right: 16px;
   margin-top: 8px;
@@ -24,12 +24,12 @@ input[type='number'] {
   outline: none;
 }
 
-input[type='number']:hover {
+.input-snackbar:hover {
   border: 1px solid #000;
 }
 
-input[type='number']:active,
-input[type='number']:focus {
+.input-snackbar:active,
+.input-snackbar:focus {
   border-color: #4e75ff;
 }
 
